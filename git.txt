@@ -2,3 +2,7 @@ gitの練習だよ
 
 addをしてみましょう！！！
 エディタは変わったかな？
+
+
+git add
+git commit
